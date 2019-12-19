@@ -4,12 +4,12 @@
 
 @font-face {
     font-family: mplus-2p-light-sub;
-    src: url("/styles/mplus-2p-light-sub.ttf?v6");
+    src: url("styles/styles/mplus-2p-light-sub.ttf?v6");
 }
 
 @font-face {
     font-family: monosocialiconsfont-sub;
-    src: url("/styles/monosocialiconsfont-sub.ttf?v1");
+    src: url("styles/monosocialiconsfont-sub.ttf?v1");
 }
 
 /**************************************************************************************************
